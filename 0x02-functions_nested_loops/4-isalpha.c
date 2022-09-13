@@ -6,7 +6,7 @@
  *
  * Prototype: int _isalpha(int c);
  *
- * Return: 1 if c is letter (uppercase or lowercase) else returns 0
+ * Return: 1 if c is a letter (uppercase or lowercase) else returns 0
  */
 int _isalpha(int c)
 {
