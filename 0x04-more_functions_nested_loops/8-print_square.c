@@ -1,4 +1,4 @@
-#include "main'h"
+#include "main.h"
 
 /**
  * print_square -  prints a square using #
@@ -11,10 +11,10 @@ void print_square(int size)
 {
 	int i = 0, j;
 
-	while (i < n && n > 0)
+	while (i < size && size > 0)
 	{
 		j = 0;
-		while (j < n)
+		while (j < size)
 		{
 			_putchar('#');
 			j++;
