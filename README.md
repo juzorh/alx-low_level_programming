@@ -1,7 +1,7 @@
-# Low-Level Programming with C - Data Structures, Algorithms, Linux/Unix System Programming
+# Low-Level Programming with C - Data Structures, Algorithms, Linux System Programming
 
 This repository contains programs written for the low-level programming and
-algorithm track at the alx-SoftwareEngineering program. I update this repo with my learning progresses with projects as listed below:
+algorithm track at the alx-Software Engineering program. I update this repo with my learning progress with projects as listed below:
 
 * [0x00. C - Hello, World](./0x00-hello_world)
 * [0x01. C - Variables, if, else, while](./0x01-variables_if_else_while)
